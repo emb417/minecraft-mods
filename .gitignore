@@ -1,0 +1,5 @@
+.DS_Store
+!/forge
+!/Raw Textures
+/forge/*
+!forge/src
