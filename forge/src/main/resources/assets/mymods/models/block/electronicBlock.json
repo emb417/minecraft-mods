@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+       "down": "mymods:blocks/electronicBlock",
+         "up": "mymods:blocks/electronicBlock",
+      "north": "mymods:blocks/electronicBlock",
+      "south": "mymods:blocks/electronicBlock",
+       "west": "mymods:blocks/electronicBlock",
+       "east": "mymods:blocks/electronicBlock",
+   "particle": "mymods:blocks/electronicBlock"
+  }
+}
